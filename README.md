@@ -19,11 +19,11 @@
 
 点击GitHub主页左上角的 ` new ` 或者 右上角 <font color="red"> + </font> ` New repository ` 创建新仓库
 
-
+![新建仓库](https://cdn.jsdelivr.net/gh/YangLiCcc/PicGo/img/PicGo/PicGo_createRepository.png)
 
 填写仓库信息，这里需要注意的是，仓库必须得设置为<font color="red">Public</font>，因为后面通过客户端访问属于外部访问，因此无法访问<font color="red">Private</font>，这样的话图片上传会出错。
 
-
+![填写仓库信息](https://cdn.jsdelivr.net/gh/YangLiCcc/PicGo/img/PicGo/PicGo_createRepository2.png)
 
 ### 1.2 新建 token 并复制保存
 
@@ -31,7 +31,9 @@
 
 也可以之间点击链接访问[创建token](https://github.com/settings/tokens)
 
+![新建token](https://cdn.jsdelivr.net/gh/YangLiCcc/PicGo/img/PicGo/PicGo_createToken.png)
 
+![新建token](https://cdn.jsdelivr.net/gh/YangLiCcc/PicGo/img/PicGo/PicGo_createToken2.png)
 
 然后复制生成的一串token字符，<font color="red">这个token只出现一次</font>，所以建议还是复制保存一下
 
@@ -47,7 +49,7 @@ PicGo是一个开源免费的图床上传工具，个人感觉还是比较轻便
 
 ### 2.2 配置
 
-
+![PicGo配置](https://cdn.jsdelivr.net/gh/YangLiCcc/PicGo/img/PicGo/PicGo_picgoSettings.png)
 
 * ` 设定仓库名 ` 即刚才新建的仓库名
 * ` 设定分支名` 默认<font color="red">main</font>
@@ -58,6 +60,8 @@ PicGo是一个开源免费的图床上传工具，个人感觉还是比较轻便
 最后点击<font color="blue">确定</font>就可以了，也可以点击<font color="green">设为默认图床</font>将GitHub图床设为默认。
 
 ### 2.3 其他设置
+
+![PicGo其他设置](https://cdn.jsdelivr.net/gh/YangLiCcc/PicGo/img/PicGo/PicGo_picgoSettings2.png)
 
 如图，我个人比较建议打开的两项设置
 
